@@ -30,7 +30,7 @@ Demonstrar a viabilidade do uso das bibliotecas **react-leaflet** e **leaflet-co
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/AndreGM/POC-react-leaflet-leaflet-compare.git
-   cd react-leaflet-comparison-poc
+   cd POC-react-leaflet-leaflet-compare
 
 2. **Instale as dependências:**:
    ```bash
